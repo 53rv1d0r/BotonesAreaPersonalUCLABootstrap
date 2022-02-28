@@ -1,0 +1,31 @@
+/* .context{
+invertido
+    background: -webkit-linear-gradient(top,
+      rgba(254,254,254,1) 0%,
+      rgba(255,255,255,1) 94%,
+      rgba(247,247,247,1) 99%,
+      rgba(226,226,226,1) 100%);
+  } */
+
+.contint{
+  max-width: 1170px;
+}
+a{
+  color: #505050;
+  text-decoration: none;
+}
+img{
+  width: 50px;
+  height: 50px;
+}
+.texto{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+  color: black;
+}
+.texto4{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 15px;
+  /* letter-spacing: -1px; */
+  color: black;
+}
